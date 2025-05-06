@@ -5,3 +5,5 @@
 </p>
 
 # Privileged-Identity-Manager-Highlights
+
+➜ Implemented just-in-time access and time-bound role assignments using Microsoft PIM to reduce privileged access exposure.
