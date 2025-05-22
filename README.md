@@ -4,6 +4,8 @@
   </a>
 </p>
 
-# Privileged-Identity-Manager-Highlights
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Samuel-Cavada/Privileged-Identity-Manager-Highlights/main/images/pim2.png" alt="Privileged Identity Manager Highlights" width="600">
+</p>
 
-➜ Implemented just-in-time access and time-bound role assignments using Microsoft PIM to minimize privileged access exposure and enhance security.
+> This section highlights experience managing just-in-time privileged access and role activation through Microsoft Entra PIM.
